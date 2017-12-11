@@ -22,4 +22,10 @@ The program first asks the user what their name is before printing welcoming the
 system to store the questions that will be asked along with the answers to each. Loops run through the class and print the questions. 
 The if and else statements will output the answers to the question depending on the user's answer to the question printed. The loops 
 will run back through the question after an answer has been chosen by the user and will either notify the user that they are got the 
-question correct or incorrect. The trivia ends when the total of the questions stored have been answered. 
+question correct or incorrect. The trivia ends when the total of the questions stored have been answered. The modules used for this
+program was the system module and the random module.
+
+The system module provides access to variables used or maintained by the interpreter and to the functions that
+interact strongly with the interpreter. 
+
+The random module implements pseudo-random number generators for various distributions. 
